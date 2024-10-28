@@ -1,7 +1,7 @@
 # physics-cluster-registration
 [Knative](https://knative.dev/docs/) source to sink service to trigger steps upon cluster (OCM) registration.
 
-[PHYSICS](https://physics-faas.eu/) has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 101017047.
+> [PHYSICS](https://physics-faas.eu/) has received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No. 101017047.
 
 ## Deploy
 
